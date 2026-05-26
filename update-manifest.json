@@ -1,0 +1,12 @@
+{
+  "version": "1.8.1",
+  "files": {
+    "pipeline.py": "0e4ae162374df340a2d61e92ad9abf8dfb085884bcadbce18f7ecf088f9c5a28",
+    "relay_extractors.py": "6252997a0fef17c059c3050282bb3711ce7cf6a07af7f9c7a1ae3f98998f2d74",
+    "workspace_routing.py": "00a74685e7a74f67465289a542e8fe39b97d3c7be7fea0f0925f5adfe65736a6",
+    "routing_cloud.py": "9d2aefbf18fca003b86825a8752b50d78d7128e1f480b5d276d0835fee7aba2e",
+    "om_paths.py": "cdecb76f4b34bac29837a7b1f222eed5d6be15b6a2ef22d79310a591525b42a8",
+    "VERSION": "25cec9739d3218e48acc5d8c3d4333e1d624121c5b7ab3bcddc71d0fa0134b83",
+    "SKILL.md": "8dd6145ac1bf0b08a747631caae030304e0d5dad72e9d79ff5d6bf8a7f08c16f"
+  }
+}
