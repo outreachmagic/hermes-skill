@@ -90,7 +90,7 @@ RELAY_URL = "https://api.outreachmagic.io"
 SKILL_SCRIPTS_DIR = f"skills/{SKILL_NAME}/scripts"
 UPDATE_SCRIPT_FILES = ("pipeline.py", "relay_extractors.py", "workspace_routing.py", "routing_cloud.py", "connections_cloud.py", "om_paths.py")
 UPDATE_MANIFEST_FILES = (*UPDATE_SCRIPT_FILES, "VERSION")
-SKILL_REPO_PATH = "skills/outreachmagic"
+SKILL_REPO_PATH = "."
 GITHUB_REPO = "outreachmagic/hermes-skill"
 GITHUB_RELEASES_LATEST = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
 
